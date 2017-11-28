@@ -1,0 +1,68 @@
+﻿html body {
+    margin: 0;
+    padding: 0;
+    background: #FF7F50;
+    font-family: 'Trebuchet MS';
+}
+button {
+    padding: 1%;
+    width: 100%;
+}
+label {
+    margin-left: 5px;
+    vertical-align: middle;
+    font-size: 0.9em;
+}
+p {
+    line-height: 100%;
+}
+.sub {
+    padding-left: 20px;
+}
+span {
+    line-height: 100%;
+}
+input {
+    background-color: rgba(255,255,255,.5);
+    border: 1px solid gray;
+}
+.input-group {
+    margin: 15px 0;
+}
+#map {
+    position: static;
+    width: 100vw;
+    height: 100vh;
+}
+#boxes {
+    position: relative;
+    top: 0;
+    float: right;
+    width: 40%;
+    background: #009900;
+    height: 100%;
+}
+#menu:before {
+    content: '';
+    position: absolute;
+}
+#menu {
+    position: absolute;
+    right: 0;
+    width: 18%;
+    background-color: rgba(95, 115, 153, .8);
+    height: 100%;
+    z-index: 100;
+    padding: 15px;
+}
+    #menu h2 {
+        font-size: 1.2em;
+        margin: 0;
+    }
+.filter_ux {
+    padding: 0px;
+    border-radius: 3px;
+    margin-bottom: 1px;
+    font-size: 80%;
+    padding-left: 20%;
+}

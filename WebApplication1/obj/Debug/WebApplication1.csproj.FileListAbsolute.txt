@@ -1,0 +1,10 @@
+c:\users\tony\documents\visual studio 2013\Projects\PDT_MyProject\WebApplication1\bin\WebApplication1.dll.config
+c:\users\tony\documents\visual studio 2013\Projects\PDT_MyProject\WebApplication1\bin\WebApplication1.dll
+c:\users\tony\documents\visual studio 2013\Projects\PDT_MyProject\WebApplication1\bin\WebApplication1.pdb
+c:\users\tony\documents\visual studio 2013\Projects\PDT_MyProject\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\tony\documents\visual studio 2013\Projects\PDT_MyProject\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\tony\documents\visual studio 2013\Projects\PDT_MyProject\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Tony\documents\visual studio 2013\Projects\PDT_MyProject\WebApplication1\bin\Npgsql.dll
+C:\Users\Tony\documents\visual studio 2013\Projects\PDT_MyProject\WebApplication1\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Tony\documents\visual studio 2013\Projects\PDT_MyProject\WebApplication1\bin\Npgsql.xml
+C:\Users\Tony\documents\visual studio 2013\Projects\PDT_MyProject\WebApplication1\bin\System.Threading.Tasks.Extensions.xml
