@@ -12,3 +12,6 @@ Are you searching for some particular shop and want to get there by public city 
 - C#, ASP.NET
 - JavaScript, AJAX, MapBox
 - PostGIS and PostgreSQL
+
+**Sample of the program:**
+![Screenshot](screenshot.png)
